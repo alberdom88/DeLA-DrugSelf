@@ -1,7 +1,7 @@
 # DeLA-DrugSelf
 This repository contains the code of the method described in "DeLA-DrugSelf: Empowering Multi-Objective De Novo Design through SELFIES Molecular Representation" (add ref).
 
-# Requisites
+## Requisites
 
 This package requires:
 * torch
@@ -23,9 +23,9 @@ This package requires:
 
 `python generate.py <input_file> <nmols> <number_of_mutations>`
 
-<input_file>: name of the input file containing the list of the input molecules in SMILES format
-<nmols>: number of molecules to genearate for each input SMILES
-<number_of_mutations>: number of wanted mutations
+<input_file>: name of the input file containing the list of the input molecules in SMILES format \n
+<nmols>: number of molecules to genearate for each input SMILES \n
+<number_of_mutations>: number of wanted mutations \n
 
-The script generate for each i-th input SMILES a file named <i>.smi
+The script generate for each i-th input SMILES a file named "<i>.smi"
 
