@@ -16,16 +16,16 @@ This package requires:
 
 `python generate_fs.py <output_file> <nmols>`
 
-`<nmols>`: number of molecules to generate
-`<output_file>`: name of the output file containing the list of the generated molecules in SMILES format
+`<nmols>`: number of molecules to generate\
+`<output_file>`: name of the output file containing the list of the generated molecules in SMILES format\
 
 ### Sampling with mutations (SWM)
 
 `python generate.py <input_file> <nmols> <number_of_mutations>`
 
-`<input_file>`: name of the input file containing the list of the input molecules in SMILES format
-`<nmols>`: number of molecules to genearate for each input SMILES
-`<number_of_mutations>`: number of wanted mutations
+`<input_file>`: name of the input file containing the list of the input molecules in SMILES format\
+`<nmols>`: number of molecules to genearate for each input SMILES\
+`<number_of_mutations>`: number of wanted mutations\
 
 The script generate for each i-th input SMILES a file named `<i>.smi`
 
