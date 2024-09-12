@@ -1,5 +1,5 @@
 # DeLA-DrugSelf
-This repository contains the code of the method described in "DeLA-DrugSelf: Empowering Multi-Objective De Novo Design through SELFIES Molecular Representation" (add ref).
+This repository contains the code of the method described in "DeLA-DrugSelf: Empowering Multi-Objective De Novo Design through SELFIES Molecular Representation" (https://www.sciencedirect.com/science/article/pii/S0010482524005705).
 
 ## Requisites
 
